@@ -28,4 +28,8 @@ body {
 	font-family: Verdana;
 }
 
+input[type="checkbox"] {
+	margin-right: 10px;
+}
+
 /* End of base css */
