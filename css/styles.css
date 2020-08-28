@@ -32,4 +32,9 @@ input[type="checkbox"] {
 	margin-right: 10px;
 }
 
+button[type="submit"] {
+	background-color: rgb(71, 255, 102);
+	color: rgb(0, 0, 0);
+}
+
 /* End of base css */
